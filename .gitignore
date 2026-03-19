@@ -1,0 +1,30 @@
+# Данные (обычно большие, не храним в Git)
+data/
+models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Виртуальное окружение
+venv/
+env/
+.env
+
+# Логи и временные файлы
+*.log
+*.tmp
