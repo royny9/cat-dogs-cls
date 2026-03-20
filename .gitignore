@@ -17,6 +17,7 @@ build/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
+/Datsset/
 # VS Code
 .vscode/
 
